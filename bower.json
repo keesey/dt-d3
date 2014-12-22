@@ -1,0 +1,18 @@
+{
+  "name": "dt-d3",
+  "version": "1.0.0",
+  "main": "d3.d.ts",
+  "homepage": "https://github.com/keesey/dt-d3",
+  "description": "TypeScript declaration for d3 JavaScript library, taken from the DefinitelyTyped project.",
+  "keywords": [
+    "TypeScript",
+    "d3",
+    "DefinitelyTyped",
+    "Data-Driven",
+    "Documents"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
